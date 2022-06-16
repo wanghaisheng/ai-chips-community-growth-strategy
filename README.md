@@ -1,6 +1,11 @@
-# ai-chips-community-growth-strategy
+# ai-chips-dev-community-growth-strategy
 时值国产化芯片如雨后春笋爆发式涌现的时代，借鉴开源软件生态社区构建的思路，整理了自己对于这种软硬结合类产品的生态社区发展的一点点想法
 
+看了包云岗老师们发起的一生一芯 有感而发
+
+可以加我微信
+
+参考资料里材料来自于网络
 
 ![iShot2022-06-12 23 59 42](https://user-images.githubusercontent.com/2363295/173242070-4bcc5356-fa64-4a6c-8b2c-10f1e1707d25.png)
 ![iShot2022-06-12 23 59 31](https://user-images.githubusercontent.com/2363295/173242073-75b90cfd-038d-4d63-b416-eff9cbbe984f.png)
